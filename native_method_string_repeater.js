@@ -14,4 +14,4 @@
   return str; 
  }
  
- console.log("Javascript".repeatify(3))
+ console.log("Javascript".repeatify(3));
